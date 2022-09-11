@@ -62,6 +62,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Peach smoothie](https://benctw.github.io/SupportDocs/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/benctw/SupportDocs/edit/DataSource/Sample-Smoothies/Peach.md))
 - [Plum smoothie](https://benctw.github.io/SupportDocs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/benctw/SupportDocs/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://benctw.github.io/SupportDocs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/benctw/SupportDocs/edit/DataSource/Sample-Smoothies/RedBerries.md))
+- [安裝Python](https://benctw.github.io/SupportDocs/Python/inatall_python) (python) ([edit](https://github.com/benctw/SupportDocs/edit/DataSource/Python/inatall_python.md))
 
 
 ## Notes
